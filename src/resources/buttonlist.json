@@ -1,0 +1,104 @@
+[
+  {
+    "gridClass": "ac",
+    "id": "clear",
+    "displayText": "AC",
+    "value": ""
+  },
+  {
+    "gridClass": "divide",
+    "id": "divide",
+    "displayText": "/",
+    "value": "/"
+  },
+  {
+    "gridClass": "multiply",
+    "id": "multiply",
+    "displayText": "X",
+    "value": "X"
+  },
+  {
+    "gridClass": "seven",
+    "id": "seven",
+    "displayText": "7",
+    "value": "7"
+  },
+  {
+    "gridClass": "eight",
+    "id": "eight",
+    "displayText": "8",
+    "value": "8"
+  },
+  {
+    "gridClass": "nine",
+    "id": "nine",
+    "displayText": "9",
+    "value": "9"
+  },
+  {
+    "gridClass": "minus",
+    "id": "subtract",
+    "displayText": "-",
+    "value": "-"
+  },
+  {
+    "gridClass": "four",
+    "id": "four",
+    "displayText": "4",
+    "value": "4"
+  },
+  {
+    "gridClass": "five",
+    "id": "five",
+    "displayText": "5",
+    "value": "5"
+  },
+  {
+    "gridClass": "six",
+    "id": "six",
+    "displayText": "6",
+    "value": "6"
+  },
+  {
+    "gridClass": "plus",
+    "id": "add",
+    "displayText": "+",
+    "value": "+"
+  },
+  {
+    "gridClass": "one",
+    "id": "one",
+    "displayText": "1",
+    "value": "1"
+  },
+  {
+    "gridClass": "two",
+    "id": "two",
+    "displayText": "2",
+    "value": "2"
+  },
+  {
+    "gridClass": "three",
+    "id": "three",
+    "displayText": "3",
+    "value": "3"
+  },
+  {
+    "gridClass": "equals",
+    "id": "equals",
+    "displayText": "=",
+    "value": "="
+  },
+  {
+    "gridClass": "zero",
+    "id": "zero",
+    "displayText": "0",
+    "value": "0"
+  },
+  {
+    "gridClass": "dot",
+    "id": "decimal",
+    "displayText": ".",
+    "value": "."
+  }
+]

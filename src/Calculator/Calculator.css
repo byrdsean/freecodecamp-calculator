@@ -1,0 +1,17 @@
+.calculator {
+  background-color: black;
+  font-size: 3rem;
+  max-width: calc(4 * var(--button-height));
+  width: 100%;
+  border: 5px orange solid;
+  display: grid;
+  grid-template-columns: repeat(4, var(--button-height));
+  grid-template-rows: var(--button-height) repeat(5, var(--button-height));
+  grid-template-areas:
+    "display display display display"
+    "ac ac divide multiply"
+    "seven eight nine minus"
+    "four five six plus"
+    "one two three equals"
+    "zero zero dot equals";
+}
